@@ -1,5 +1,13 @@
 # Chat-Chat (Chating Application)
 
+Demo Link : 
+
+## ## Need to work on:
+* Beutifull UI
+* User can chat with only with his firends 
+* Adding user information bit more Like : Profile pic , Profile name, About page of userUser should not be allowed to register if he/she tries to provide the already registered email ID
+* 
+
 ## About the Project
 
 * A  `chatting application ` that enables private messaging with end-to-end encryption of user data.
