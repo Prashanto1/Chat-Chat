@@ -1,4 +1,4 @@
-# Chat-Chat (Chating Application)
+# Chat-Chat (Android Chating Application)
 
 Demo Link : 
 
@@ -23,13 +23,21 @@ Demo Link :
 
 ## Screenshots of the application
 
-### 1. .Splash Screen and Login Page
+### 1. .Splash Screen and Login  Ans Sign up Page
+<img width="215" alt="Screenshot Splash Screen" src="https://github.com/Prashanto1/Chat-Chat/assets/93566010/514eebac-aa6b-4b8f-affd-f4ee426b9366">
+
+<img width="215" alt="Screenshot 2023-06-27 101435" src="https://github.com/Prashanto1/Chat-Chat/assets/93566010/82366e7d-3c83-44d8-864e-4dcc510a1663">
+
+<img width="211" alt="Screenshot 2023-06-27 101512" src="https://github.com/Prashanto1/Chat-Chat/assets/93566010/9bc6c6be-613b-4d50-9725-1af8001a0fac">
 
 
-### 2. Chats Tab and Users Tab
+### 2. Usera Tab and chats Tab
+<img width="216" alt="Screenshot 2023-06-27 101908" src="https://github.com/Prashanto1/Chat-Chat/assets/93566010/3adc162b-3f11-4017-8dbe-7b06af44ee7a">
+
+<img width="218" alt="Screenshot 2023-06-27 101928" src="https://github.com/Prashanto1/Chat-Chat/assets/93566010/8901f5e4-894e-4d13-ad69-7498d8a4c78a">
 
 
-### 3.  Chatting Page
+
 
 ## Technology
 
